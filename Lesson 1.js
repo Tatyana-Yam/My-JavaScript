@@ -23,3 +23,15 @@ c /= 11;
 const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
 console.log(myStr)
 
+//Quoting string with Single quotes
+const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
+console.log(myStr)
+
+const myStr = "This is the start. " + "This is the end.";
+
+let myStr = "This is the first sentence. ";
+myStr += "This is the second sentence.";
+
+const myName = "Tatyana";
+const myStr = "My name is " + myName + ", and I am well!";
+
